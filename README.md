@@ -5,7 +5,7 @@ Google Apps Script advanced comparison between ranges (ie 2d Arrays) regardless 
 
 
 
-Functions for comparison of the content between ranges - return 2D array with row values in the "narrower" range that satisfy criteria:
+>> Functions for comparison of the content between ranges - return 2D array with row values in the "narrower" range that satisfy criteria:
 
 findEqualContent(shorterArr, longerArr)
 
@@ -13,7 +13,7 @@ findNotEqualContent(shorterArr, longerArr)
 
 
 
-Functions for comparison of the content between ranges - return array with row numbers that satisfy criteria:
+>> Functions for comparison of the content between ranges - return array with row numbers that satisfy criteria:
 
 findEqualContentRowNumbers(shorterArr, longerArr)
 
